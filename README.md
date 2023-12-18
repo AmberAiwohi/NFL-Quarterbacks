@@ -5,4 +5,4 @@ The goal of this analysis is to determine what aspects are most important to a q
 The contents of this repository are as follows:
 - quarterbacks.csv: cleaned dataset used to perform the analysis
 - project.ipynb: Python code to complete the project
-- final.pdf: PDF file of the final report
+- report.pdf: PDF file of the final report
